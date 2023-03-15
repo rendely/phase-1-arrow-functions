@@ -2,6 +2,6 @@ const divide = function(a,b){
   return a/b;
 }
 
-square = x => x*x;
+const square = x => x*x;
 
-add = (a,b) => a+b;
+const add = (a,b) => a+b;
